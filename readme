@@ -1,0 +1,10 @@
+This pipeline cleans wind turbine data. 
+It also analyses anomolies in wind turbine power output.
+
+
+Run the application
+1. Create a new virtual environment by running 'python -m venv venv'
+2. activate your environment on Windows - 'venv\Scripts\activate' or on Mac/Linux 'source venv/bin/activate'
+3. Install the pipreqs library. This enables an easy way to install all the required libraries from the requirements.txt file.
+4. Install the required libraries by running 'pip install -r requirements.txt'
+5. Run the application
